@@ -56,7 +56,7 @@ The data is analyzed using identifiers such as:
 - Beneficiary ID
 - Claim ID
 
-
+---
 
 ## 🛠️ Tools & Technologies
 
@@ -66,7 +66,7 @@ The data is analyzed using identifiers such as:
 - DAX
 - Excel / CSV
 
-
+---
 
 ## 🔍 Key Analysis
 
@@ -79,7 +79,7 @@ The project helps identify:
 - Providers with higher risk scores.
 - Potentially suspicious provider behavior.
 
-
+---
 
 ## 📁 Project Structure
 
