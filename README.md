@@ -79,7 +79,6 @@ Real-time claim monitoring.
 
 Snehal Bhagat
 
-Aspiring Data Analyst
-SQL | Power BI | Python | Excel | Data Analytics
+
 
 
