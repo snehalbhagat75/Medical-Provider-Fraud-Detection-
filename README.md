@@ -80,6 +80,5 @@ Snehal Bhagat
 Aspiring Data Analyst
 SQL | Power BI | Python | Excel | Data Analytics
 
-Snehal Bhagat
 
 Aspiring Data Analyst | SQL | Power BI | Python | Excel | Data Analytics
