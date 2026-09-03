@@ -73,6 +73,8 @@ Advanced anomaly detection.
 Automated provider risk classification.
 Fraud probability scoring.
 Real-time claim monitoring.
+
+
 👩‍💻 Author
 
 Snehal Bhagat
@@ -81,4 +83,3 @@ Aspiring Data Analyst
 SQL | Power BI | Python | Excel | Data Analytics
 
 
-Aspiring Data Analyst | SQL | Power BI | Python | Excel | Data Analytics
