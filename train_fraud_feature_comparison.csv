@@ -1,0 +1,14 @@
+,Fraud_Median,NonFraud_Median,Difference_%
+total_deductible,26359.0,200.0,13079.499999999998
+total_unique_beneficiaries,117.0,22.0,431.8181818181818
+total_reimbursement,416305.0,79595.0,423.0290847415039
+total_claims,157.0,51.0,207.843137254902
+avg_length_of_stay,5.810003840245775,5.0,16.200076804915504
+avg_procedure_codes,0.7330459770114942,0.7142857142857143,2.626436781609187
+avg_diagnosis_codes,8.09700176366843,8.2,-1.2560760528240111
+avg_reimbursement_per_claim,1933.9773691654882,0.0,
+claims_per_beneficiary,1.1221031245621411,0.0,
+reimbursement_per_beneficiary,2718.153289806327,0.0,
+overall_high_cost_rate,0.0998366013071895,0.0,
+inpatient_claim_mix,0.15189543270436465,0.0,
+outpatient_claim_mix,0.6492580113269768,0.0,
